@@ -1,5 +1,4 @@
-$(function() {
-$.fn.emojiPicker.emojis = [
+window.emojis = [
   {
     "name": "copyright",
     "unicode": "00A9",
@@ -5984,5 +5983,4 @@ $.fn.emojiPicker.emojis = [
     "description": "REGIONAL INDICATOR SYMBOL LETTERS US",
     "category": "folderol"
   }
-]
-});
+];
