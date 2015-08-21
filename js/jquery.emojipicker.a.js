@@ -3087,7 +3087,7 @@ window.emojis = [
   },
   {
     "name": "family",
-    "unicode": "1F46A",
+    "unicode": "1f46a.0.famdef",
     "shortcode": "family",
     "description": "FAMILY",
     "category": "people"
@@ -3346,7 +3346,7 @@ window.emojis = [
   },
   {
     "name": "couplekiss",
-    "unicode": "1F48F",
+    "unicode": "1f48f.0.defwm",
     "shortcode": "couplekiss",
     "description": "KISS",
     "category": "emotion"
@@ -3360,7 +3360,7 @@ window.emojis = [
   },
   {
     "name": "couple_with_heart",
-    "unicode": "1F491",
+    "unicode": "1f491.0.defwm",
     "shortcode": "couple_with_heart",
     "description": "COUPLE WITH HEART",
     "category": "emotion"
