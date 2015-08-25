@@ -2885,7 +2885,7 @@ window.emojis = [
   {
     "name": "+1",
     "unicode": "1F44D",
-    "shortcode": "plus1",
+    "shortcode": "+1", 
     "description": "THUMBS UP SIGN",
     "category": "people"
   },
